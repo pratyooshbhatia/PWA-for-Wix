@@ -6,7 +6,7 @@
 
 [![Wix App Market](https://img.shields.io/badge/Wix%20App%20Market-Live-brightgreen)](https://www.wix.com/app-market/web-solution/pwa)
 [![Rating](https://img.shields.io/badge/Rating-4.7%20★-orange)](https://www.wix.com/app-market/web-solution/pwa)
-[![Users](https://img.shields.io/badge/Countries-13-blue)](https://www.wix.com/app-market/web-solution/pwa)
+[![Paid Users across 14 countries](https://img.shields.io/badge/Countries-13-blue)](https://www.wix.com/app-market/web-solution/pwa)
 
 ---
 
