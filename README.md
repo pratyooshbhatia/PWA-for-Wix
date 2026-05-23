@@ -58,13 +58,13 @@ So I spent 1–2 years figuring out how to make it work on Wix's architecture �
 ## Traction
 
 - **4.7★** average rating on Wix App Market
-- **34+** reviews
+- **35+** reviews
 - Paying users across **13 countries**
 - Available **worldwide**
 
 ---
 
-## Live App
+## Live App (Deployed URL)
 
 [→ View on Wix App Market](https://www.wix.com/app-market/web-solution/pwa)
 
