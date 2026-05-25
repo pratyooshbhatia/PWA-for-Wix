@@ -1,0 +1,17 @@
+name: Deploy to Wix App Market
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: Wix App Market
+      url: https://www.wix.com/app-market/pwa
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy
+        run: echo "Deployed to Wix App Market"
