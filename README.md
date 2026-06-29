@@ -80,8 +80,6 @@ Built and maintained by [Pratyoosh Bhatia](https://www.linkedin.com/in/pratyoosh
 
 <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/dd259e54-92f9-42ae-b06b-a6305ef509a1" />
 
-<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/f451dfd1-b8ad-4273-86a0-ed5c519cbdc6" />
-
 <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/bc7d6406-9092-4b97-89a0-1981805600f2" />
 
 
